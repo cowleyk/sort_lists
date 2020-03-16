@@ -11,4 +11,4 @@
 `$ chmod 755 sort_lists.py`
 
 - Build image (the given image repository:image tag will need to be substituted in the `docker run` command
-`$ docker build -t <image repository>:<image tag> .`
+`$ docker build -t <image>:<tag> .`
